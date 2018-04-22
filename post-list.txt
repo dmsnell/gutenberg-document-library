@@ -1,2 +1,2 @@
-https://github.com/dmsnell/gutenberg-document-library/tree/master/library/demo-post.html
-https://github.com/dmsnell/gutenberg-document-library/tree/master/library/shortcode-shortcomings.html
+https://github.com/dmsnell/gutenberg-document-library/raw/master/library/demo-post.html
+https://github.com/dmsnell/gutenberg-document-library/raw/master/library/shortcode-shortcomings.html
