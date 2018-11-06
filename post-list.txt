@@ -1,8 +1,7 @@
-http://localhost:3000/library/demo-post.html
-http://localhost:3000/library/shortcode-shortcomings.html
-http://localhost:3000/library/redesigning-chrome-desktop.html
-http://localhost:3000/library/web-at-maximum-fps.html
-http://localhost:3000/library/early-adopting-the-future.html
-http://localhost:3000/library/pygmalian-raw-html.html
-http://localhost:3000/library/moby-dick-parsed.html
-http://localhost:3000/library/programming-reddit.html
+https://raw.githubusercontent.com/dmsnell/gutenberg-document-library/master/library/demo-post.html
+https://raw.githubusercontent.com/dmsnell/gutenberg-document-library/master/library/shortcode-shortcomings.html
+https://raw.githubusercontent.com/dmsnell/gutenberg-document-library/master/library/redesigning-chrome-desktop.html
+https://raw.githubusercontent.com/dmsnell/gutenberg-document-library/master/library/web-at-maximum-fps.html
+https://raw.githubusercontent.com/dmsnell/gutenberg-document-library/master/library/early-adopting-the-future.html
+https://raw.githubusercontent.com/dmsnell/gutenberg-document-library/master/library/pygmalian-raw-html.html
+https://raw.githubusercontent.com/dmsnell/gutenberg-document-library/master/library/moby-dick-parsed.html
